@@ -3,8 +3,6 @@
 Welcome to my cybersecurity portfolio!  
 I’m passionate about **Governance, Risk, and Compliance (GRC)** and building practical projects that demonstrate how businesses can improve their security posture.  
 
-## This repository hosts my **personal portfolio website** powered by GitHub Pages.  
-## 👉 You can view the live site here: [maincharacter.github.io](https://maincharacter.github.io) 
 ---
 
 ## 📂 What You'll Find Here
